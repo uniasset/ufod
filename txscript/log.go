@@ -5,7 +5,7 @@
 package txscript
 
 import (
-	"github.com/uniasset/btclog"
+	"github.com/btcsuite/btclog"
 )
 
 // log is a logger that is initialized with no output filters.  This
