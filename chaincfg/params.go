@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/uniasset/ufod/chaincfg/chainhash"
+	"github.com/uniasset/ufod/wire"
 )
 
 // These variables are the chain proof-of-work limit parameters for each default
